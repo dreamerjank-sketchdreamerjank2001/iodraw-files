@@ -83,17 +83,17 @@
         <mxCell id="Xv8LhegPP-w2HDhVmXxw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xv8LhegPP-w2HDhVmXxw-24" target="Xv8LhegPP-w2HDhVmXxw-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xv8LhegPP-w2HDhVmXxw-39" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="810" width="480" height="128" as="geometry" />
+        <mxCell id="Xv8LhegPP-w2HDhVmXxw-39" value="&#xa;반복 결과 평가&#xa;&#xa;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=90;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="810" width="480" height="168" as="geometry" />
         </mxCell>
         <mxCell id="Xv8LhegPP-w2HDhVmXxw-40" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Xv8LhegPP-w2HDhVmXxw-39">
-          <mxGeometry y="50" width="480" height="26" as="geometry" />
+          <mxGeometry y="90" width="480" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Xv8LhegPP-w2HDhVmXxw-41" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Xv8LhegPP-w2HDhVmXxw-39">
-          <mxGeometry y="76" width="480" height="26" as="geometry" />
+          <mxGeometry y="116" width="480" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Xv8LhegPP-w2HDhVmXxw-42" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Xv8LhegPP-w2HDhVmXxw-39">
-          <mxGeometry y="102" width="480" height="26" as="geometry" />
+          <mxGeometry y="142" width="480" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
