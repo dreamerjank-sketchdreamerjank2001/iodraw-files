@@ -47,15 +47,7 @@
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Xv8LhegPP-w2HDhVmXxw-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xv8LhegPP-w2HDhVmXxw-8" target="Xv8LhegPP-w2HDhVmXxw-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="190" y="530" />
-              <mxPoint x="190" y="570" />
-              <mxPoint x="680" y="570" />
-              <mxPoint x="680" y="600" />
-              <mxPoint x="400" y="600" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
