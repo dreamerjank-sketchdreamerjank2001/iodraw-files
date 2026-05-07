@@ -85,8 +85,14 @@
         <mxCell id="Xv8LhegPP-w2HDhVmXxw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Xv8LhegPP-w2HDhVmXxw-24" target="Xv8LhegPP-w2HDhVmXxw-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Kf95qMpnyFwwzxFspxYA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Kf95qMpnyFwwzxFspxYA-1" target="Kf95qMpnyFwwzxFspxYA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kf95qMpnyFwwzxFspxYA-1" value="&lt;div&gt;반복 결과 평가&lt;/div&gt;&lt;div&gt;1주차 종료(중재 1주 후)&lt;/div&gt;&lt;div&gt;2주차 종료(중재 2주 후)&lt;/div&gt;&lt;div&gt;3주차 종료(중재 종료 시점)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="810" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Kf95qMpnyFwwzxFspxYA-3" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
