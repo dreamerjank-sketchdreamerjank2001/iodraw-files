@@ -90,7 +90,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xv8LhegPP-w2HDhVmXxw-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xv8LhegPP-w2HDhVmXxw-59" target="Xv8LhegPP-w2HDhVmXxw-59">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="840" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
