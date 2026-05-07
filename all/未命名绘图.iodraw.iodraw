@@ -26,10 +26,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xv8LhegPP-w2HDhVmXxw-21" value="&#xa;HA + KT군(n=53&#xa;&#xa;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="560" y="600" width="160" height="120" as="geometry" />
+          <mxGeometry x="560" y="600" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Xv8LhegPP-w2HDhVmXxw-22" value="&#xa;HA 주사 + 키네시오 테이핑&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="Xv8LhegPP-w2HDhVmXxw-21">
-          <mxGeometry y="40" width="160" height="80" as="geometry" />
+          <mxGeometry y="40" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Xv8LhegPP-w2HDhVmXxw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Xv8LhegPP-w2HDhVmXxw-21" source="Xv8LhegPP-w2HDhVmXxw-22" target="Xv8LhegPP-w2HDhVmXxw-22">
           <mxGeometry relative="1" as="geometry" />
@@ -67,6 +67,9 @@
               <mxPoint x="160" y="560" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Xv8LhegPP-w2HDhVmXxw-35" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
