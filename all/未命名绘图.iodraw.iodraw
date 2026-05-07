@@ -43,9 +43,6 @@
         <mxCell id="Xv8LhegPP-w2HDhVmXxw-26" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="Xv8LhegPP-w2HDhVmXxw-25">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Xv8LhegPP-w2HDhVmXxw-29" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="510" width="50" height="100" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
