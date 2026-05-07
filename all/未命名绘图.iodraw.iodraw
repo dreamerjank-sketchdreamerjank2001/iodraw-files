@@ -25,15 +25,6 @@
         <mxCell id="Xv8LhegPP-w2HDhVmXxw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Xv8LhegPP-w2HDhVmXxw-7" source="Xv8LhegPP-w2HDhVmXxw-8" target="Xv8LhegPP-w2HDhVmXxw-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xv8LhegPP-w2HDhVmXxw-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xv8LhegPP-w2HDhVmXxw-12" target="Xv8LhegPP-w2HDhVmXxw-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Xv8LhegPP-w2HDhVmXxw-12" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="650" width="60" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Xv8LhegPP-w2HDhVmXxw-13" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" vertex="1" parent="1">
-          <mxGeometry x="495" y="670" width="80" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
