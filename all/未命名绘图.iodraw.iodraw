@@ -28,7 +28,7 @@
         <mxCell id="Xv8LhegPP-w2HDhVmXxw-21" value="&#xa;HA + KT군(n=53&#xa;&#xa;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="560" y="600" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Xv8LhegPP-w2HDhVmXxw-22" value="&#xa;관절강내 HA 주사 + 키네시오 테이핑&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="Xv8LhegPP-w2HDhVmXxw-21">
+        <mxCell id="Xv8LhegPP-w2HDhVmXxw-22" value="&#xa;HA 주사 + 키네시오 테이핑&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="Xv8LhegPP-w2HDhVmXxw-21">
           <mxGeometry y="40" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Xv8LhegPP-w2HDhVmXxw-23" value="&#xa;HA군(n=53)&#xa;&#xa;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
