@@ -44,13 +44,23 @@
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Xv8LhegPP-w2HDhVmXxw-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xv8LhegPP-w2HDhVmXxw-8" target="Xv8LhegPP-w2HDhVmXxw-21">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="560" />
+              <mxPoint x="640" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Xv8LhegPP-w2HDhVmXxw-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xv8LhegPP-w2HDhVmXxw-8" target="Xv8LhegPP-w2HDhVmXxw-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xv8LhegPP-w2HDhVmXxw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xv8LhegPP-w2HDhVmXxw-8" target="Xv8LhegPP-w2HDhVmXxw-23">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="560" />
+              <mxPoint x="160" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
