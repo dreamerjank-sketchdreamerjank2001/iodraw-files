@@ -68,6 +68,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Xv8LhegPP-w2HDhVmXxw-86" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xv8LhegPP-w2HDhVmXxw-35" target="Xv8LhegPP-w2HDhVmXxw-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Xv8LhegPP-w2HDhVmXxw-35" value="&#xa;3주 중재 기간&lt;div style=&quot;color: rgba(255, 255, 255, 0.85); font: 16px / 24px ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; font-weight: 400; line-height: 24px; text-align: left; white-space: normal; display: block; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box; background-color: rgba(0, 0, 0, 0);&quot;&gt;&lt;/div&gt;기초시점(T0) ~ 3주차&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="720" width="320" height="50" as="geometry" />
         </mxCell>
@@ -81,7 +84,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xv8LhegPP-w2HDhVmXxw-85" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="830" width="480" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
