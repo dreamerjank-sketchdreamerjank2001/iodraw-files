@@ -91,8 +91,8 @@
         <mxCell id="Kf95qMpnyFwwzxFspxYA-1" value="&lt;div&gt;반복 결과 평가&lt;/div&gt;&lt;div&gt;1주차 종료(중재 1주 후)&lt;/div&gt;&lt;div&gt;2주차 종료(중재 2주 후)&lt;/div&gt;&lt;div&gt;3주차 종료(중재 종료 시점)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="810" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Kf95qMpnyFwwzxFspxYA-3" value="WOMAC、VAS、QMS、HMS、증상 관련 지표" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="920" width="220" height="60" as="geometry" />
+        <mxCell id="Kf95qMpnyFwwzxFspxYA-3" value="WOMAC、&lt;br&gt;VAS&lt;br&gt;、QMS、&lt;br&gt;HMS、&lt;br&gt;증상 관련 지표" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="920" width="320" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
